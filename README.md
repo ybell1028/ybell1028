@@ -5,7 +5,7 @@
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
  <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
-### ✔ [Are you interested in me? Check out my Portfolio!](https://ybell1028.notion.site/230f1d0cfc2d4f10bb502f2fbfbef610) ✔
+### ✔ [Are you interested in me? Check out my Portfolio!](https://ybell1028.notion.site/77752e9f7ee44b589d71eb92693444a7) ✔
  
 
 ### 💻 GitHub Analytics 
